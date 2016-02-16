@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T01:16:40.294Z'
-dateModified: '2016-02-12T01:16:32.308Z'
+datePublished: '2016-02-16T19:46:15.909Z'
+dateModified: '2016-02-13T19:57:58.539Z'
 title: Services
 author: []
 authors: []
@@ -48,7 +48,7 @@ Whether your interest is a new logo or a revamped website to establish your iden
 
 ### Content Development Team
 
-Quality content is a vital component of website development. It is necessary to support your overall online marketing strategy. Our Lead Site Editor and team of content specialists will help bridge the transition from your website development project_/_Social media campaign into an ongoing publication_process_that maintains your web site/social profiles after launch.  We will help your business improve SEO results, engagement and conversions by creating fresh and relevant content for your targeted audience which is consistent, engaging and rich with pertinent keywords woven into your company story and brand message.
+Quality content is a vital component of website development. It is necessary to support your overall online marketing strategy. Our Lead Site Editor and team of content specialists will help bridge the transition from your website development project_/_Social media campaign into an ongoing publication _process_that maintains your web site/social profiles after launch.  We will help your business improve SEO results, engagement and conversions by creating fresh and relevant content for your targeted audience which is consistent, engaging and rich with pertinent keywords woven into your company story and brand message.
 
 > **Branding:** LC Media specializes in company branding. Let us help  you create the name, logo, or slogan that will identify your company for years to come. Whether you are just starting or active in traditional or internet marketing, your brand always comes first.
 
@@ -61,3 +61,5 @@ Quality content is a vital component of website development. It is necessary to 
 > **Web Development:** With people spending both more time and money online then ever before, now is the time to have a great online presence. Your main store front is not longer brick and mortar, it's your website. Make sure it looks and functions great!
 
 > **Reputation: **Ever heard the phrase, "You've got my word"? That is putting your reputation on the line. In today's internet driven media world, it is important to manage your online reputation as well and make sure the public is seeing things right.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e27cedb-e548-4ef4-970d-a327e1b8e87f.jpg)
