@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Our specialized team offers complete Strategy, Development, Design, SEO, Content, Branding, Reputation and Integrated Marketing concepts to effectively leverage your brand, sell your products/services and broadcast your message to a targeted vertical audience. It is our job to determine your needs, help you reach your target market, and share your company story.'
-datePublished: '2016-02-16T20:07:25.921Z'
-dateModified: '2016-02-16T20:06:50.613Z'
+description: 'Complete Strategy, Development, Design, SEO, Content, Branding, Reputation and Integrated Marketing Concepts to  target your audience.'
+datePublished: '2016-02-16T20:09:36.439Z'
+dateModified: '2016-02-16T20:09:21.534Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-12-strategize-first.md
@@ -23,5 +23,3 @@ _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6add5a5d-a65d-420d-bd74-f6abcf6f97ed.jpg)
-
-#
