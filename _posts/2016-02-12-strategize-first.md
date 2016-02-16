@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our specialized team offers complete Strategy, Development, Design, SEO, Content, Branding, Reputation and Integrated Marketing concepts to effectively leverage your brand, sell your products/services and broadcast your message to a targeted vertical audience. It is our job to determine your needs, help you reach your target market, and share your company story.'
-datePublished: '2016-02-16T19:56:02.653Z'
-dateModified: '2016-02-16T19:56:00.322Z'
+datePublished: '2016-02-16T19:59:34.133Z'
+dateModified: '2016-02-16T19:59:29.229Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-12-strategize-first.md
@@ -24,12 +24,17 @@ _type: WebPage
 ---
 # Services
 
-> **Branding:**
+# ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/204a7970-28d8-4197-a76e-7e24de706cba.jpg)
+
+# 
 > 
 > LC Media specializes in company branding. Let us help  you create the name, logo, or slogan that will identify your company for years to come. Whether you are just starting or active in traditional or internet marketing, your brand always comes first.
-
-> **Content:**
 > 
+> ****
+> 
+> 
+
 > Creating valuable content can be a very difficult task. Let us learn your business, then create and push content to your site, blog and social media. The less you worry about this, the more you can concentrate on important business decisions.
 
 > **SEO:**
