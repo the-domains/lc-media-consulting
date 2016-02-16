@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Complete Strategy, Development, Design, SEO, Content, Branding, Reputation and Integrated Marketing Concepts to  target your audience.'
-datePublished: '2016-02-16T20:27:57.467Z'
-dateModified: '2016-02-16T20:27:55.684Z'
+datePublished: '2016-02-16T20:27:25.074Z'
+dateModified: '2016-02-16T20:27:20.706Z'
 title: SERVICES
 author: []
 sourcePath: _posts/2016-02-12-strategize-first.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 #### [Branding][0]
 
-LC Media specializes in company branding.  Let us help you create the name, logo, or slogan that will identify your company for years to come. Whether you are just starting or are active in traditional or internet marketing, your brand always comes first.
+LC Media specializes in company branding.  Let us help you create the name, logo, or slogan that will identify your company for years to come.  Whether your just starting or active in traditional or internet marketing, your brand always comes first.
 
 Click here to learn more.
 
