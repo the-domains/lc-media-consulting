@@ -1,6 +1,6 @@
 name: LC Media Consulting
 favicon: null
-layout_spectrum: 0.94343
+layout_spectrum: 0.50623
 typography_spectrum: 0.9169
 title: LC Media Consulting
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.012663118774071336
+  brandStrength: 0.9375
   lightness: 0.40501510933972895
   saturation: 0.8250570103991777
   rhythmicContrast: 0.11863184534013271
