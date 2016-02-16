@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Complete Strategy, Development, Design, SEO, Content, Branding, Reputation and Integrated Marketing Concepts to  target your audience.'
-datePublished: '2016-02-16T20:09:36.439Z'
-dateModified: '2016-02-16T20:09:21.534Z'
+datePublished: '2016-02-16T20:23:36.160Z'
+dateModified: '2016-02-16T20:23:22.162Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-12-strategize-first.md
