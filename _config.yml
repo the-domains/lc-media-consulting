@@ -1,20 +1,4 @@
-name: LC Media Consulting
-favicon: null
-layout_spectrum: 0.92518
-typography_spectrum: 0.95775
-title: LC Media Consulting
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#E0FBFC'
@@ -24,6 +8,11 @@ color:
     - '#253237'
   brandStrength: 0.875
   lightness: 0.5
-  saturation: 0.8250570103991777
   rhythmicContrast: 0.75
+  saturation: 0.8250570103991777
+cta: {}
+layout_spectrum: 0.538651
+name: LC Media Consulting
+opengraph: {}
 purpose: []
+typography_spectrum: 0.95775
